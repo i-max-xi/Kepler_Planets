@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/i-max-xi/Kepler_Planets/issues"
   },
-  "homepage": "https://github.com/i-max-xi/Kepler_Planets#readme"
+  "homepage": "https://github.com/i-max-xi/Kepler_Planets#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.1"
+  }
 }
